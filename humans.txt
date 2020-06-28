@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Santosh Paigrahy <twitter>
+    Santosh Paigrahy
+    sapnigrahi.067@gmail.com
+    HCL SE.DevOps Engg
 
 # THANKS
 

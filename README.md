@@ -9,3 +9,9 @@ Sample website with plenty of files for demos## GIT & GITHub Traning
 This is GIT project, which we are using as sample project
 
 This is good traning center for learning DevOps Course.
+
+## GIT Comparisons
+Adding GIT Comparisons Lecture
+
+## GITHub Content
+Comparison with REPO

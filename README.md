@@ -13,5 +13,8 @@ This is good traning center for learning DevOps Course.
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
 
+##contribution
+Fork the repor and  rasied full request for review.
+
 ## GITHub Content
 Comparison with REPO

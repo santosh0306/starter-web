@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Hi i am modifiying the file before rebase
+
 # TEAM
 
     Santosh Paigrahy
@@ -15,3 +17,5 @@
 
     HTML5, CSS3
     jQuery, SQl,AWS,UNIX, AUTOSYS
+    
+
